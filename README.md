@@ -30,3 +30,7 @@ Proyek ini membuat saya lebih percaya diri dalam mengelola file proyek dan mengu
 ## Author
 A. Lira Virna
 
+## kesimpulan
+Proyek ini memberikan pengalaman berharga dalam membangun website sederhana sekaligus menggunakan GitHub secara langsung.
+
+
